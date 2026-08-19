@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 > **Learn Then Earn. Build Wealth. Secure Your Future.**
-> **P2RLS** is a full-featured, gamified financial literacy web platform engineered to empower users on their journey from financial fundamentals to wealth building through structured lessons, interactive real-world simulations, quizzes, and a virtual coin economy.
+> **P2RLS** is a full-featured, gamified financial literacy web platform engineered to empower users on their journey from financial fundamentals to wealth building through structured lessons, interactive real-world simulations, quizzes, and a virtual coin economy. Visit the Site through (http://p2rls.runasp.net)
 
 ---
 
@@ -245,4 +245,4 @@ The platform relies on a normalized relational database supporting the following
 
 ## 📄 License
 
-This project is developed for educational and portfolio purposes. Licensed under the [MIT License](LICENSE).
+This project is developed for educational and portfolio purposes.
